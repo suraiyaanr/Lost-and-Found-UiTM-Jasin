@@ -1,6 +1,6 @@
 # Lost-and-Found-UiTM-Jasin
 This is my final year degree project.
--Java language
--MVC
--CSS HTML JS
--Eclipse JEE
+UI template <a href="github.com/puikinsh/kiaalap.git">Kiaalap Admin Dashboard Template <br>
+Kindly import the lofo.WAR file into the Eclipse JEE for easy installation.<br>
+You can use lofo.sql for the example database.<br>
+Database used : Oracle Database
